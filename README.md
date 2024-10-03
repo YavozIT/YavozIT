@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @YavozIT
+- 👋 Hi, I’m Azam AL-JARMOZI 
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning information Technology 
 - 💞️ I’m looking to collaborate on developing codes 
-- 📫 How to reach me 
+- 📫 How to reach me : azamaljarmozi@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
